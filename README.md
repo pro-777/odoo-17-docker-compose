@@ -10,7 +10,7 @@ curl -s https://raw.githubusercontent.com/pro-777/odoo-17-docker-compose/refs/he
 and/or run the following to set up another Odoo instance @ `localhost:11017` (default master password: `minhng.info`):
 
 ``` bash
-curl -s https://raw.githubusercontent.com/pro-777/odoo-17-docker-compose/refs/heads/master/run.sh | sudo bash -s odoo-two 11017 21017
+curl -s https://raw.githubusercontent.com/pro-777/odoo-17-docker-compose/refs/heads/main/run.sh | sudo bash -s odoo-two 11017 21017
 ```
 
 Some arguments:
